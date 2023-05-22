@@ -1,2 +1,2 @@
 # Simon-Java
-Simon memory game made using Apache Netbeans and Java Swing. Very easy to play. Includes a dynamic leaderboard, player input, game class, a popup when game is over and many more cool features. 
+Simon memory game made using Apache Netbeans and Java Swing. Very easy to play. Includes a dynamic leaderboard, player input, game class, a popup when game is over and many more cool features. I used Java.util.Timer to change the background of the JButton to white for 1 second and then reverting back to original color. This feature helped make the game experience relatively smooth. If you like playing the game in real life, you should enjoy this version. Please make additions and/or contributions to the project. 
